@@ -37,7 +37,7 @@ export default {
     data: function() {return {
         username: '',
         password: '',
-        server: 'http://127.0.0.1:8443/api',
+        server: 'http://ec2-63-35-180-198.eu-west-1.compute.amazonaws.com/api',
         rememberme: false,
         loading: false,
         errormsg: '',
