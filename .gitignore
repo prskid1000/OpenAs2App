@@ -7,7 +7,6 @@
 .project
 .classpath
 pom.xml.versionsBackup
-*/dist/*
 **/target/**/*
 /Bundle/target/
 /lib/
